@@ -1,0 +1,52 @@
+# Build Folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.vspscc
+*.suo
+*.ntvs*
+*.njsproj
+*.sln.docstates
+
+# Logs and Debugging
+*.log
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# Entity Framework Migrations
+Migrations/
+
+# Configuration
+appsettings*.json
+
+# DotNet Tools
+.dotnet_tools/
+
+# Temporary files
+*.tmp
+*.cache
+*.pid
+
+# NuGet Packages
+packages/
+*.nupkg
+project.lock.json
+
+# Publish output
+publish/
+
+# Secrets
+secrets.json
+
+# Environment variables
+.env
+
+# Docker
+.dockerignore
+**/[Pp]roperties/launchSettings.json
