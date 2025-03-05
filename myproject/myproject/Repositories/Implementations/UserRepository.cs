@@ -18,6 +18,13 @@ namespace myproject.Repositories.Implementations
             return await _context.Users.ToListAsync();
         }
 
+        public async Task<User> getByEmail(string email)
+        {
+            User user = await _context.Users.FirstOrDefaultAsync(u => u.Email==email);
+            return user;
+
+        }
+
         public async Task registerUser(User newUser, string password)
         {
             newUser.Password = password;

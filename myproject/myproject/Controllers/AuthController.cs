@@ -19,10 +19,17 @@ namespace myproject.Controllers
         }
 
         [HttpPost("/register")]
-        public async Task<ActionResult> register([FromBody]RegisterUserDAO registerUserDAO)
+        public async Task<ActionResult> register([FromBody]RegisterUserDTO registerUserDAO)
         {
             return Ok(await _userService.register(registerUserDAO));
         }
+
+        [HttpPost("/login")]
+        public async Task<ActionResult<string>> login([FromBody] LoginUserDTO loginUserDAO)
+        {
+            return Ok(await _userService.login(loginUserDAO));
+        }
+
 
     }
 }

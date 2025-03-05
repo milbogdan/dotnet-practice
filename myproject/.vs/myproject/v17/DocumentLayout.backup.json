@@ -1,62 +1,78 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\bogdann\\Desktop\\dotnet test\\myproject\\",
+  "WorkspaceRootPath": "C:\\Users\\bogdann\\Desktop\\.NET\\dotnet-practice\\myproject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E80966E4-423E-4DC4-85DE-579566F8818E}|myproject\\myproject.csproj|c:\\users\\bogdann\\desktop\\dotnet test\\myproject\\myproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E80966E4-423E-4DC4-85DE-579566F8818E}|myproject\\myproject.csproj|solutionrelative:myproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E80966E4-423E-4DC4-85DE-579566F8818E}|myproject\\myproject.csproj|c:\\users\\bogdann\\desktop\\dotnet test\\myproject\\myproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E80966E4-423E-4DC4-85DE-579566F8818E}|myproject\\myproject.csproj|c:\\users\\bogdann\\desktop\\.net\\dotnet-practice\\myproject\\myproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E80966E4-423E-4DC4-85DE-579566F8818E}|myproject\\myproject.csproj|solutionrelative:myproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E80966E4-423E-4DC4-85DE-579566F8818E}|myproject\\myproject.csproj|c:\\users\\bogdann\\desktop\\dotnet test\\myproject\\myproject\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{E80966E4-423E-4DC4-85DE-579566F8818E}|myproject\\myproject.csproj|solutionrelative:myproject\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{E80966E4-423E-4DC4-85DE-579566F8818E}|myproject\\myproject.csproj|c:\\users\\bogdann\\desktop\\.net\\dotnet-practice\\myproject\\myproject\\auth\\tokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E80966E4-423E-4DC4-85DE-579566F8818E}|myproject\\myproject.csproj|solutionrelative:myproject\\auth\\tokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E80966E4-423E-4DC4-85DE-579566F8818E}|myproject\\myproject.csproj|c:\\users\\bogdann\\desktop\\dotnet test\\myproject\\myproject\\daos\\registeruserdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E80966E4-423E-4DC4-85DE-579566F8818E}|myproject\\myproject.csproj|solutionrelative:myproject\\daos\\registeruserdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E80966E4-423E-4DC4-85DE-579566F8818E}|myproject\\myproject.csproj|c:\\users\\bogdann\\desktop\\.net\\dotnet-practice\\myproject\\myproject\\auth\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E80966E4-423E-4DC4-85DE-579566F8818E}|myproject\\myproject.csproj|solutionrelative:myproject\\auth\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E80966E4-423E-4DC4-85DE-579566F8818E}|myproject\\myproject.csproj|c:\\users\\bogdann\\desktop\\dotnet test\\myproject\\myproject\\myproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E80966E4-423E-4DC4-85DE-579566F8818E}|myproject\\myproject.csproj|solutionrelative:myproject\\myproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{E80966E4-423E-4DC4-85DE-579566F8818E}|myproject\\myproject.csproj|c:\\users\\bogdann\\desktop\\.net\\dotnet-practice\\myproject\\myproject\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E80966E4-423E-4DC4-85DE-579566F8818E}|myproject\\myproject.csproj|solutionrelative:myproject\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E80966E4-423E-4DC4-85DE-579566F8818E}|myproject\\myproject.csproj|c:\\users\\bogdann\\desktop\\dotnet test\\myproject\\myproject\\auth\\tokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E80966E4-423E-4DC4-85DE-579566F8818E}|myproject\\myproject.csproj|solutionrelative:myproject\\auth\\tokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E80966E4-423E-4DC4-85DE-579566F8818E}|myproject\\myproject.csproj|c:\\users\\bogdann\\desktop\\dotnet test\\myproject\\myproject\\repositories\\implementations\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E80966E4-423E-4DC4-85DE-579566F8818E}|myproject\\myproject.csproj|solutionrelative:myproject\\repositories\\implementations\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E80966E4-423E-4DC4-85DE-579566F8818E}|myproject\\myproject.csproj|c:\\users\\bogdann\\desktop\\dotnet test\\myproject\\myproject\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E80966E4-423E-4DC4-85DE-579566F8818E}|myproject\\myproject.csproj|solutionrelative:myproject\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E80966E4-423E-4DC4-85DE-579566F8818E}|myproject\\myproject.csproj|c:\\users\\bogdann\\desktop\\dotnet test\\myproject\\myproject\\services\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E80966E4-423E-4DC4-85DE-579566F8818E}|myproject\\myproject.csproj|c:\\users\\bogdann\\desktop\\.net\\dotnet-practice\\myproject\\myproject\\services\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E80966E4-423E-4DC4-85DE-579566F8818E}|myproject\\myproject.csproj|solutionrelative:myproject\\services\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E80966E4-423E-4DC4-85DE-579566F8818E}|myproject\\myproject.csproj|c:\\users\\bogdann\\desktop\\dotnet test\\myproject\\myproject\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E80966E4-423E-4DC4-85DE-579566F8818E}|myproject\\myproject.csproj|solutionrelative:myproject\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E80966E4-423E-4DC4-85DE-579566F8818E}|myproject\\myproject.csproj|c:\\users\\bogdann\\desktop\\.net\\dotnet-practice\\myproject\\myproject\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E80966E4-423E-4DC4-85DE-579566F8818E}|myproject\\myproject.csproj|solutionrelative:myproject\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E80966E4-423E-4DC4-85DE-579566F8818E}|myproject\\myproject.csproj|c:\\users\\bogdann\\desktop\\dotnet test\\myproject\\myproject\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E80966E4-423E-4DC4-85DE-579566F8818E}|myproject\\myproject.csproj|solutionrelative:myproject\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E80966E4-423E-4DC4-85DE-579566F8818E}|myproject\\myproject.csproj|c:\\users\\bogdann\\desktop\\dotnet test\\myproject\\myproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E80966E4-423E-4DC4-85DE-579566F8818E}|myproject\\myproject.csproj|c:\\users\\bogdann\\desktop\\.net\\dotnet-practice\\myproject\\myproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E80966E4-423E-4DC4-85DE-579566F8818E}|myproject\\myproject.csproj|solutionrelative:myproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E80966E4-423E-4DC4-85DE-579566F8818E}|myproject\\myproject.csproj|c:\\users\\bogdann\\desktop\\dotnet test\\myproject\\myproject\\model\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E80966E4-423E-4DC4-85DE-579566F8818E}|myproject\\myproject.csproj|solutionrelative:myproject\\model\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E80966E4-423E-4DC4-85DE-579566F8818E}|myproject\\myproject.csproj|c:\\users\\bogdann\\desktop\\.net\\dotnet-practice\\myproject\\myproject\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E80966E4-423E-4DC4-85DE-579566F8818E}|myproject\\myproject.csproj|solutionrelative:myproject\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E80966E4-423E-4DC4-85DE-579566F8818E}|myproject\\myproject.csproj|c:\\users\\bogdann\\desktop\\dotnet test\\myproject\\myproject\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E80966E4-423E-4DC4-85DE-579566F8818E}|myproject\\myproject.csproj|solutionrelative:myproject\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E80966E4-423E-4DC4-85DE-579566F8818E}|myproject\\myproject.csproj|c:\\users\\bogdann\\desktop\\.net\\dotnet-practice\\myproject\\myproject\\repositories\\implementations\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E80966E4-423E-4DC4-85DE-579566F8818E}|myproject\\myproject.csproj|solutionrelative:myproject\\repositories\\implementations\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E80966E4-423E-4DC4-85DE-579566F8818E}|myproject\\myproject.csproj|c:\\users\\bogdann\\desktop\\.net\\dotnet-practice\\myproject\\myproject\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E80966E4-423E-4DC4-85DE-579566F8818E}|myproject\\myproject.csproj|solutionrelative:myproject\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E80966E4-423E-4DC4-85DE-579566F8818E}|myproject\\myproject.csproj|c:\\users\\bogdann\\desktop\\.net\\dotnet-practice\\myproject\\myproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E80966E4-423E-4DC4-85DE-579566F8818E}|myproject\\myproject.csproj|solutionrelative:myproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E80966E4-423E-4DC4-85DE-579566F8818E}|myproject\\myproject.csproj|c:\\users\\bogdann\\desktop\\.net\\dotnet-practice\\myproject\\myproject\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E80966E4-423E-4DC4-85DE-579566F8818E}|myproject\\myproject.csproj|solutionrelative:myproject\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E80966E4-423E-4DC4-85DE-579566F8818E}|myproject\\myproject.csproj|c:\\users\\bogdann\\desktop\\.net\\dotnet-practice\\myproject\\myproject\\dtos\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E80966E4-423E-4DC4-85DE-579566F8818E}|myproject\\myproject.csproj|solutionrelative:myproject\\dtos\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E80966E4-423E-4DC4-85DE-579566F8818E}|myproject\\myproject.csproj|c:\\users\\bogdann\\desktop\\.net\\dotnet-practice\\myproject\\myproject\\dtos\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E80966E4-423E-4DC4-85DE-579566F8818E}|myproject\\myproject.csproj|solutionrelative:myproject\\dtos\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E80966E4-423E-4DC4-85DE-579566F8818E}|myproject\\myproject.csproj|c:\\users\\bogdann\\desktop\\.net\\dotnet-practice\\myproject\\myproject\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{E80966E4-423E-4DC4-85DE-579566F8818E}|myproject\\myproject.csproj|solutionrelative:myproject\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E80966E4-423E-4DC4-85DE-579566F8818E}|myproject\\myproject.csproj|c:\\users\\bogdann\\desktop\\.net\\dotnet-practice\\myproject\\myproject\\myproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E80966E4-423E-4DC4-85DE-579566F8818E}|myproject\\myproject.csproj|solutionrelative:myproject\\myproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E80966E4-423E-4DC4-85DE-579566F8818E}|myproject\\myproject.csproj|c:\\users\\bogdann\\desktop\\.net\\dotnet-practice\\myproject\\myproject\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E80966E4-423E-4DC4-85DE-579566F8818E}|myproject\\myproject.csproj|solutionrelative:myproject\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E80966E4-423E-4DC4-85DE-579566F8818E}|myproject\\myproject.csproj|c:\\users\\bogdann\\desktop\\.net\\dotnet-practice\\myproject\\myproject\\model\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E80966E4-423E-4DC4-85DE-579566F8818E}|myproject\\myproject.csproj|solutionrelative:myproject\\model\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,30 +82,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": ".env",
-              "DocumentMoniker": "C:\\Users\\bogdann\\Desktop\\dotnet test\\myproject\\myproject\\.env",
+              "DocumentMoniker": "C:\\Users\\bogdann\\Desktop\\.NET\\dotnet-practice\\myproject\\myproject\\.env",
               "RelativeDocumentMoniker": "myproject\\.env",
-              "ToolTip": "C:\\Users\\bogdann\\Desktop\\dotnet test\\myproject\\myproject\\.env",
+              "ToolTip": "C:\\Users\\bogdann\\Desktop\\.NET\\dotnet-practice\\myproject\\myproject\\.env",
               "RelativeToolTip": "myproject\\.env",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-03-04T19:39:58.571Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\bogdann\\Desktop\\dotnet test\\myproject\\myproject\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\bogdann\\Desktop\\.NET\\dotnet-practice\\myproject\\myproject\\Program.cs",
               "RelativeDocumentMoniker": "myproject\\Program.cs",
-              "ToolTip": "C:\\Users\\bogdann\\Desktop\\dotnet test\\myproject\\myproject\\Program.cs",
+              "ToolTip": "C:\\Users\\bogdann\\Desktop\\.NET\\dotnet-practice\\myproject\\myproject\\Program.cs",
               "RelativeToolTip": "myproject\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAwB0AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAwCkAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-04T19:05:21.545Z",
               "EditorCaption": ""
@@ -98,113 +114,178 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\bogdann\\Desktop\\dotnet test\\myproject\\myproject\\Repositories\\Interfaces\\IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bogdann\\Desktop\\.NET\\dotnet-practice\\myproject\\myproject\\Repositories\\Interfaces\\IUserRepository.cs",
               "RelativeDocumentMoniker": "myproject\\Repositories\\Interfaces\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\bogdann\\Desktop\\dotnet test\\myproject\\myproject\\Repositories\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\bogdann\\Desktop\\.NET\\dotnet-practice\\myproject\\myproject\\Repositories\\Interfaces\\IUserRepository.cs",
               "RelativeToolTip": "myproject\\Repositories\\Interfaces\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-04T16:38:23.077Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\bogdann\\Desktop\\dotnet test\\myproject\\myproject\\Repositories\\Implementations\\UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bogdann\\Desktop\\.NET\\dotnet-practice\\myproject\\myproject\\Repositories\\Implementations\\UserRepository.cs",
               "RelativeDocumentMoniker": "myproject\\Repositories\\Implementations\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\bogdann\\Desktop\\dotnet test\\myproject\\myproject\\Repositories\\Implementations\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\bogdann\\Desktop\\.NET\\dotnet-practice\\myproject\\myproject\\Repositories\\Implementations\\UserRepository.cs",
               "RelativeToolTip": "myproject\\Repositories\\Implementations\\UserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBQAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-04T16:38:19.654Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\bogdann\\Desktop\\dotnet test\\myproject\\myproject\\Services\\Interfaces\\IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\bogdann\\Desktop\\.NET\\dotnet-practice\\myproject\\myproject\\Services\\Interfaces\\IUserService.cs",
               "RelativeDocumentMoniker": "myproject\\Services\\Interfaces\\IUserService.cs",
-              "ToolTip": "C:\\Users\\bogdann\\Desktop\\dotnet test\\myproject\\myproject\\Services\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\bogdann\\Desktop\\.NET\\dotnet-practice\\myproject\\myproject\\Services\\Interfaces\\IUserService.cs",
               "RelativeToolTip": "myproject\\Services\\Interfaces\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-03T23:35:56.777Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\bogdann\\Desktop\\dotnet test\\myproject\\myproject\\Services\\Implementations\\UserService.cs",
+              "DocumentMoniker": "C:\\Users\\bogdann\\Desktop\\.NET\\dotnet-practice\\myproject\\myproject\\Services\\Implementations\\UserService.cs",
               "RelativeDocumentMoniker": "myproject\\Services\\Implementations\\UserService.cs",
-              "ToolTip": "C:\\Users\\bogdann\\Desktop\\dotnet test\\myproject\\myproject\\Services\\Implementations\\UserService.cs",
+              "ToolTip": "C:\\Users\\bogdann\\Desktop\\.NET\\dotnet-practice\\myproject\\myproject\\Services\\Implementations\\UserService.cs",
               "RelativeToolTip": "myproject\\Services\\Implementations\\UserService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACUAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-03T23:35:47.841Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RegisterUserDAO.cs",
-              "DocumentMoniker": "C:\\Users\\bogdann\\Desktop\\dotnet test\\myproject\\myproject\\DAOs\\RegisterUserDAO.cs",
-              "RelativeDocumentMoniker": "myproject\\DAOs\\RegisterUserDAO.cs",
-              "ToolTip": "C:\\Users\\bogdann\\Desktop\\dotnet test\\myproject\\myproject\\DAOs\\RegisterUserDAO.cs",
-              "RelativeToolTip": "myproject\\DAOs\\RegisterUserDAO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T15:03:55.524Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 6,
               "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\bogdann\\Desktop\\dotnet test\\myproject\\myproject\\Controllers\\AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\bogdann\\Desktop\\.NET\\dotnet-practice\\myproject\\myproject\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "myproject\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\bogdann\\Desktop\\dotnet test\\myproject\\myproject\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\bogdann\\Desktop\\.NET\\dotnet-practice\\myproject\\myproject\\Controllers\\AuthController.cs",
               "RelativeToolTip": "myproject\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-04T13:48:36.757Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TokenGenerator.cs",
-              "DocumentMoniker": "C:\\Users\\bogdann\\Desktop\\dotnet test\\myproject\\myproject\\Auth\\TokenGenerator.cs",
-              "RelativeDocumentMoniker": "myproject\\Auth\\TokenGenerator.cs",
-              "ToolTip": "C:\\Users\\bogdann\\Desktop\\dotnet test\\myproject\\myproject\\Auth\\TokenGenerator.cs",
-              "RelativeToolTip": "myproject\\Auth\\TokenGenerator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\bogdann\\Desktop\\.NET\\dotnet-practice\\myproject\\myproject\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "myproject\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\bogdann\\Desktop\\.NET\\dotnet-practice\\myproject\\myproject\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "myproject\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA4wGkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T23:13:47.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\bogdann\\Desktop\\.NET\\dotnet-practice\\myproject\\myproject\\Auth\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "myproject\\Auth\\ServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\bogdann\\Desktop\\.NET\\dotnet-practice\\myproject\\myproject\\Auth\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "myproject\\Auth\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T00:42:09.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TokenProvider.cs",
+              "DocumentMoniker": "C:\\Users\\bogdann\\Desktop\\.NET\\dotnet-practice\\myproject\\myproject\\Auth\\TokenProvider.cs",
+              "RelativeDocumentMoniker": "myproject\\Auth\\TokenProvider.cs",
+              "ToolTip": "C:\\Users\\bogdann\\Desktop\\.NET\\dotnet-practice\\myproject\\myproject\\Auth\\TokenProvider.cs",
+              "RelativeToolTip": "myproject\\Auth\\TokenProvider.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-04T13:31:42.579Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 12,
+              "Title": "LoginUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\bogdann\\Desktop\\.NET\\dotnet-practice\\myproject\\myproject\\DTOs\\LoginUserDTO.cs",
+              "RelativeDocumentMoniker": "myproject\\DTOs\\LoginUserDTO.cs",
+              "ToolTip": "C:\\Users\\bogdann\\Desktop\\.NET\\dotnet-practice\\myproject\\myproject\\DTOs\\LoginUserDTO.cs",
+              "RelativeToolTip": "myproject\\DTOs\\LoginUserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T20:44:00.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\bogdann\\Desktop\\.NET\\dotnet-practice\\myproject\\myproject\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "myproject\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\bogdann\\Desktop\\.NET\\dotnet-practice\\myproject\\myproject\\WeatherForecast.cs",
+              "RelativeToolTip": "myproject\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T00:38:44.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\bogdann\\Desktop\\dotnet test\\myproject\\myproject\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\bogdann\\Desktop\\.NET\\dotnet-practice\\myproject\\myproject\\appsettings.json",
               "RelativeDocumentMoniker": "myproject\\appsettings.json",
-              "ToolTip": "C:\\Users\\bogdann\\Desktop\\dotnet test\\myproject\\myproject\\appsettings.json",
+              "ToolTip": "C:\\Users\\bogdann\\Desktop\\.NET\\dotnet-practice\\myproject\\myproject\\appsettings.json",
               "RelativeToolTip": "myproject\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-03-03T21:31:52.154Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "myproject",
-              "DocumentMoniker": "C:\\Users\\bogdann\\Desktop\\dotnet test\\myproject\\myproject\\myproject.csproj",
+              "DocumentIndex": 13,
+              "Title": "RegisterUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\bogdann\\Desktop\\.NET\\dotnet-practice\\myproject\\myproject\\DTOs\\RegisterUserDTO.cs",
+              "RelativeDocumentMoniker": "myproject\\DTOs\\RegisterUserDTO.cs",
+              "ToolTip": "C:\\Users\\bogdann\\Desktop\\.NET\\dotnet-practice\\myproject\\myproject\\DTOs\\RegisterUserDTO.cs",
+              "RelativeToolTip": "myproject\\DTOs\\RegisterUserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T15:03:55.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\bogdann\\Desktop\\.NET\\dotnet-practice\\myproject\\myproject\\.gitignore",
+              "RelativeDocumentMoniker": "myproject\\.gitignore",
+              "ToolTip": "C:\\Users\\bogdann\\Desktop\\.NET\\dotnet-practice\\myproject\\myproject\\.gitignore",
+              "RelativeToolTip": "myproject\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-04T20:13:43.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "myproject.csproj",
+              "DocumentMoniker": "C:\\Users\\bogdann\\Desktop\\.NET\\dotnet-practice\\myproject\\myproject\\myproject.csproj",
               "RelativeDocumentMoniker": "myproject\\myproject.csproj",
-              "ToolTip": "C:\\Users\\bogdann\\Desktop\\dotnet test\\myproject\\myproject\\myproject.csproj",
+              "ToolTip": "C:\\Users\\bogdann\\Desktop\\.NET\\dotnet-practice\\myproject\\myproject\\myproject.csproj",
               "RelativeToolTip": "myproject\\myproject.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -213,11 +294,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "DatabaseContext.cs",
-              "DocumentMoniker": "C:\\Users\\bogdann\\Desktop\\dotnet test\\myproject\\myproject\\Model\\DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\bogdann\\Desktop\\.NET\\dotnet-practice\\myproject\\myproject\\Model\\DatabaseContext.cs",
               "RelativeDocumentMoniker": "myproject\\Model\\DatabaseContext.cs",
-              "ToolTip": "C:\\Users\\bogdann\\Desktop\\dotnet test\\myproject\\myproject\\Model\\DatabaseContext.cs",
+              "ToolTip": "C:\\Users\\bogdann\\Desktop\\.NET\\dotnet-practice\\myproject\\myproject\\Model\\DatabaseContext.cs",
               "RelativeToolTip": "myproject\\Model\\DatabaseContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -226,28 +307,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\bogdann\\Desktop\\dotnet test\\myproject\\myproject\\Model\\User.cs",
+              "DocumentMoniker": "C:\\Users\\bogdann\\Desktop\\.NET\\dotnet-practice\\myproject\\myproject\\Model\\User.cs",
               "RelativeDocumentMoniker": "myproject\\Model\\User.cs",
-              "ToolTip": "C:\\Users\\bogdann\\Desktop\\dotnet test\\myproject\\myproject\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\bogdann\\Desktop\\.NET\\dotnet-practice\\myproject\\myproject\\Model\\User.cs",
               "RelativeToolTip": "myproject\\Model\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-03T20:22:48.501Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\bogdann\\Desktop\\dotnet test\\myproject\\myproject\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "myproject\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\bogdann\\Desktop\\dotnet test\\myproject\\myproject\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "myproject\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAowBkAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T23:13:47.945Z",
               "EditorCaption": ""
             }
           ]

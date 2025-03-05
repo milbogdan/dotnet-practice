@@ -7,7 +7,8 @@ namespace myproject.Services.Interfaces
     public interface IUserService
     {
         Task<IEnumerable<User>> getAll();
-        Task<String> register(RegisterUserDAO registerUserDAO);
-        Task<bool> VerifyPassword(User user, string providedPassword);
+        Task<string> login(LoginUserDTO loginUserDTO);
+        Task<string> register(RegisterUserDTO registerUserDTO);
+        bool VerifyPassword(User user, string providedPassword);
     }
 }
